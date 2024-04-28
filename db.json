@@ -1,0 +1,14 @@
+ [
+    {
+      "name": "Spaghetti Carbonara",
+      "recipe": "1. Cook spaghetti according to package instructions. \n2. In a separate bowl, whisk together eggs, grated cheese, and black pepper. \n3. In a skillet, fry pancetta or bacon until crispy. \n4. Drain cooked spaghetti and immediately toss with the pancetta (or bacon) in the skillet. \n5. Remove from heat and quickly stir in the egg mixture until creamy. Serve immediately."
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "recipe": "1. Marinate chicken pieces in yogurt and spices. \n2. Grill or bake the chicken until cooked through. \n3. In a separate pan, sauté onions, garlic, ginger, and spices. \n4. Add tomato puree and cream to the pan, simmer until the sauce thickens. \n5. Add cooked chicken to the sauce and simmer for a few more minutes. Serve hot with rice or naan."
+    },
+    {
+      "name": "Caesar Salad",
+      "recipe": "1. Tear romaine lettuce leaves into bite-sized pieces. \n2. Prepare dressing by whisking together olive oil, lemon juice, anchovy paste, garlic, Dijon mustard, and grated Parmesan cheese. \n3. Toss lettuce with dressing until evenly coated. \n4. Top with croutons and additional Parmesan cheese if desired. Serve immediately."
+    }
+  ]
